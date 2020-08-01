@@ -16,9 +16,10 @@ A GitHub repository, preferably named: **ih_datamadpt0420_project_m2**, includin
 
 - `README.md` file explaining the job done, your main conclusions and the **link** to your Tableau Public dashboard. You may find more info of how to build a README file [here](https://github.com/potacho/data-project-template/blob/master/README.md).
 Check my Dashboard here: https://public.tableau.com/profile/blanca.fernandez#!/vizhome/BlancasDD/Story1
+![Image](./dashboard.png)
 
 ### **Presentation:**
-
+![Image](./project2.jpg)
 - **Time:** 2 minutes sharp.
 - **Content:** explain why your dashboard funtionalities are the best for getting meaningful data insights. Support your arguments in the conclusions obtained from the exploratory analysis. Conclude your pitch telling us (in one sentence) the most important insight (under your criteria) you've extracted.
 - **You only need your Dashboard (no Jupyter, no PowerPoint, no nothing!!!)**
