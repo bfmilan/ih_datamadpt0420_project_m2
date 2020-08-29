@@ -42,7 +42,7 @@ Dashboards are powerful tools for communicating important information **at-a-gla
 
 A data dashboard is not exactly a sequential set of descriptive charts like those you have built in challenge 1. Instead, a data dashboard should be **a single interactive interface built around a specific objetive and which components are logically arranged in order to provide data relevant insights effectively**. Therefore, bear in mind the main objective of the competition: _understand the relationship between diamonds attributes (features) or group of attributes, and its price_.
 
-### **Result: Check my Dashboard here: https://public.tableau.com/profile/blanca.fernandez#!/vizhome/BlancasDD/Story1**
+### **Result: Check my Dashboard here: https://public.tableau.com/profile/blanca.fernandez#!/vizhome/BlancasDD/BlancasDD_1*
 
 ![Image](./dashboard.png)
 
