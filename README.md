@@ -52,7 +52,7 @@ Result: Check my Dashboard here: https://public.tableau.com/profile/blanca.ferna
 
 
 ---
-## **Challenge 3: Hypothesis Testing*
+## **Challenge 3: Hypothesis Testing**
 
 We might want to know if our sample and sub-samples are representative of diamonds in general. Moreover, we might want to reach some conclusions about the influence of certain diamonds features in their price. In that sense, we propose you to perform two statistical tests:
 
@@ -78,9 +78,10 @@ Results:
 [check /notebook/hyphothesis_testing notebook]
 
 Test 1: t suggests that the price might be smaller than 4000 EUR as it is -3.604902369125729
-We can reject the null hypothesis as the p-value is 0.00031264532833074845 Therefore, the avg. price is significantly different from 4000 EUR
+We can reject the null hypothesis as the p-value is 0.00031264532833074845 Therefore, the avg. price is significantly different from 4000 EUR. 
 
 Test 2 [Sub-Test 5]: We reject the alternative h (the two groups have significantly different prices) as the results shows p value > 0.005 (statistic=0.34857584108266776, pvalue=0.7274714598286438)
+
 --- 
 
 ## **References:**
