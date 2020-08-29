@@ -33,11 +33,7 @@ The goal of this challenge is to build an **exploratory data analysis report** i
 
 > **IMPORTANT NOTE:** You may use the tools explained during lessons that you find more convenient in order to provide the requested output. 
 
-Result: see notebook/
-
-### **Bonus: Hypothesis Testing**
-
-Bonus info will be provided soon.
+### **Result: see notebook/analysis**
 
 ---
 ## **Challenge 2: Tableau Data Dashboard**
@@ -46,10 +42,9 @@ Dashboards are powerful tools for communicating important information **at-a-gla
 
 A data dashboard is not exactly a sequential set of descriptive charts like those you have built in challenge 1. Instead, a data dashboard should be **a single interactive interface built around a specific objetive and which components are logically arranged in order to provide data relevant insights effectively**. Therefore, bear in mind the main objective of the competition: _understand the relationship between diamonds attributes (features) or group of attributes, and its price_.
 
+### **Result: Check my Dashboard here: https://public.tableau.com/profile/blanca.fernandez#!/vizhome/BlancasDD/Story1**
 
-Result: Check my Dashboard here: https://public.tableau.com/profile/blanca.fernandez#!/vizhome/BlancasDD/Story1
 ![Image](./dashboard.png)
-
 
 ---
 ## **Challenge 3: Hypothesis Testing**
@@ -74,8 +69,7 @@ Test 2 - two independent samples. Our sample includes diamonds with different fe
 
 Remember to also include your conclusions about the implications of your test results and all metrics involved (e.g.: samples size).
 
-Results: 
-[check /notebook/hyphothesis_testing notebook]
+### **Result: see notebook/hypothesis_testing and key outcomes below**
 
 Test 1: t suggests that the price might be smaller than 4000 EUR as it is -3.604902369125729
 We can reject the null hypothesis as the p-value is 0.00031264532833074845 Therefore, the avg. price is significantly different from 4000 EUR. 
